@@ -1,0 +1,8 @@
+			OBJETIVOS DO DASHBOARD
+
+- Quantidade Total de Pedidos
+- Valor Total das Vendas
+- Quantidade e Valor Total dos Pedidos por Segmento, País, Região e Ano
+- Mapa Estatístico por Quantidade de Pedidos por País
+- Lucro Líquido
+- Ano com Mais Vendas Realizadas
